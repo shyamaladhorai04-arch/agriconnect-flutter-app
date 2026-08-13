@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737060146301",
+    "project_id": "agriconnect-5d82c",
+    "storage_bucket": "agriconnect-5d82c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737060146301:android:703a13e2a4700df113f514",
+        "android_client_info": {
+          "package_name": "com.example.agri_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpKGkVh3nH4tyQjzYo0oPgq4nPFF2XQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
